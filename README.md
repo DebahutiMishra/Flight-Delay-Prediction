@@ -3,9 +3,14 @@ Predicting flight delay can help passengers and other stakeholders in great a wa
 
 The following steps are followed in this project:
 
--Downloading a real-world dataset from a Kaggle competition
+-Downloading a real-world dataset from a Kaggle competition.
+
 -Formulate the problem, understand the dataset description, and describe the modeling objective.
+
 -Perform exploratory data analysis, gather insights, perform feature engineering, create a training, validation & test split, and prepare the data for modeling.
+
 -Train & evaluate different machine learning models, tune hyperparameters to improve models.
+
 -Report the final performance of best model(s), show sample predictions, and save model weights.
+
 -Summary of the work, links to references, ideas for future work.
